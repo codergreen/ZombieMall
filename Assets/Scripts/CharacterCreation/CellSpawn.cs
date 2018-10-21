@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CellSpawn : MonoBehaviour {
 
+	GameObject container;
 	// Use this for initialization
 	void Start () {
 		
